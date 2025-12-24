@@ -1,5 +1,3 @@
-CREATE DATABASE event_system;
-USE event_system;
 
 CREATE TABLE users (
   id INT AUTO_INCREMENT PRIMARY KEY,
